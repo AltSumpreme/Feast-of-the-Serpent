@@ -13,7 +13,7 @@ This is a simple 2D Snake game implemented in Python using the Turtle graphics l
 
 4. Game Controls:
 - Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
-- Try to eat the food (represented as a red square) to grow longer.
+- Try to eat the food (represented as a red circle) to grow longer.
 - Avoid running into the walls or colliding with the snake's body, as this will end the game.
 
 5. Scoring:
